@@ -20,7 +20,7 @@
 - Клонируйте репозиторий:
 ``` bash
 git clone https://github.com/Halssara/test_task_bank.git
-cd solution
+cd test_task_bank
 ```
 
 - Установите зависимости
